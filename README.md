@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maalhemo
+- 👋 Hola, soy @maalhemo (Mario Alberto)
 - 👀 Me encanta programar con C#, java, visualbasic y php, utilizo mysql y sql server. 
 - 🌱 Actualmente  me encuentro aprendiendo android studio, ¡las apps me encantan!
 - 💞️ Mw interesa colaborar con equipos en los que pueda aprender mas sobre el medio de desarrollo de software.
